@@ -10,7 +10,13 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- // write your code here
+  item.itemName = item;
+  item.itemPrice = function getRandomArbitrary(min, max) {
+   min = Math.ceil
+  }
+  }
+  art.push(item);
+  return cart
 }
 
 function viewCart() {
